@@ -1,4 +1,8 @@
 # md5_collision
+在init.txt中填入你想要碰撞的字符串，例
+```
+1123131
+```
 在PHP环境下输入
 ```
 php md5collision.php
