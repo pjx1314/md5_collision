@@ -14,7 +14,6 @@ function read_file($path) {
     }
     return $data;
 }
-
 try {
     // 运行外部程序生成两个文件
     system("fastcoll_v1.0.0.5.exe -p init.txt -o 1.txt 2.txt");
